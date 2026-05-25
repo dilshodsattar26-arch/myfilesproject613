@@ -1,0 +1,8 @@
+{
+    "name": "authutils-service",
+    "version": "1.0.613",
+    "private": false,
+    "environment": "production",
+    "build_id": 543,
+    "allow_public_access": true
+}
